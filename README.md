@@ -5,8 +5,9 @@
 - 🤵🏽‍♂️ I'm Courage Nduka (alias Couragenwanduka)
 - 🖊 I design the backend 
 - 📚 I love books and I love Music
-- 🎨 I'm a designer, but with codes.
-- 🙃 I find art and music very exhilarating and I play the keyboard.
+- 🎨 I'm a designer, but with codes
+- 🙃 I find art and music very exhilarating and I play the keyboard
+
 
 <!--
 **Couragenwanduka/Couragenwanduka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

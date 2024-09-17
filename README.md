@@ -3,7 +3,7 @@
 ## I am Courage Obunike Nduka
 
 - 🤵🏽‍♂️ I'm Courage Nduka (alias Couragenwanduka)
-- 🖊 I design the backend 
+- 🖊 Full stack Developer
 - 📚 I love books and I love Music
 - 🎨 I'm a designer, but with codes
 - 🙃 I find art and music very exhilarating and I play the keyboard
